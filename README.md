@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hola a todos! 👋
+
+Mi nombre es felipe valenzuela, me gradue en julio del 2026 de la carrera analista de sistemas y me encuentro aprendiendo en el mundo de la programacion. Actualmente me encuentro desarrollando un proyecto llamado asistente financiero con el objetivo de ayudar a la gente con sus finanzas mediante AI. 
+
+Ya cuento con experiencia gracias a mi proyecto autolog (https://github.com/Equipo-4-ORT/proyecto-final-back) en el cual me dedique a la incorporacion del backend, google Oauth2 y el manejo de la inteligencia artificial.
+
+Por ahora mi stack tecnico se compone de node.js, react.js y .net (https://github.com/FelipeValenzuela00/InstitutoEducativo) . Pero me encuentro tambien aprendiendo de python y LLM para poder expandir mis horizontes hacia la AI.
+
 
 <!--
 **FelipeValenzuela00/FelipeValenzuela00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
