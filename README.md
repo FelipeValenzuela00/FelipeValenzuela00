@@ -18,7 +18,7 @@ Construyo aplicaciones web con Node.js, React y .NET, y ahora me especializo en 
 
 ## Contacto
 
-[LinkedIn]((https://www.linkedin.com/in/felipe-valenzuelaa/))
+[LinkedIn](https://www.linkedin.com/in/felipe-valenzuelaa/)
 
 <!--
 **FelipeValenzuela00/FelipeValenzuela00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
