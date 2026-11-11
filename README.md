@@ -1,11 +1,24 @@
-## Hola a todos! 👋
+# Felipe Valenzuela
 
-Mi nombre es felipe valenzuela, me gradue en julio del 2026 de la carrera analista de sistemas y me encuentro aprendiendo en el mundo de la programacion. Actualmente me encuentro desarrollando un proyecto llamado asistente financiero con el objetivo de ayudar a la gente con sus finanzas mediante AI. 
+**Analista de Sistemas (2026) · Desarrollador full-stack en transición a AI Engineering**
 
-Ya cuento con experiencia gracias a mi proyecto autolog (https://github.com/Equipo-4-ORT/proyecto-final-back) en el cual me dedique a la incorporacion del backend, google Oauth2 y el manejo de la inteligencia artificial.
+Construyo aplicaciones web con Node.js, React y .NET, y ahora me especializo en sistemas con LLMs usando Python.
 
-Por ahora mi stack tecnico se compone de node.js, react.js y .net (https://github.com/FelipeValenzuela00/InstitutoEducativo) . Pero me encuentro tambien aprendiendo de python y LLM para poder expandir mis horizontes hacia la AI.
+## Proyectos
 
+- **Asistente financiero**: aplicación que ayuda a las personas a manejar sus finanzas con IA. En desarrollo (código privado, demo próximamente).
+- **[AutoLog](https://github.com/Equipo-4-ORT/proyecto-final-back)**: proyecto en equipo. Me encargué del backend, la autenticación con Google OAuth2 y la integración de IA.
+- **[Instituto Educativo](https://github.com/FelipeValenzuela00/InstitutoEducativo)**: sistema de gestión académica en .NET.
+- **[Path-To-AIengineering](https://github.com/FelipeValenzuela00/Path-To-AIengineering)**: mi programa de 12 semanas para pasar a AI Engineering, con cada proyecto testeado y con CI. Próximo paso: la API de Claude.
+
+## Stack
+
+**Uso:** Node.js · React · .NET · Python (asyncio, pydantic, pytest) · Git y GitHub Actions
+**Aprendiendo:** LLMs (API de Claude), RAG y evaluación de modelos
+
+## Contacto
+
+[LinkedIn]((https://www.linkedin.com/in/felipe-valenzuelaa/))
 
 <!--
 **FelipeValenzuela00/FelipeValenzuela00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
