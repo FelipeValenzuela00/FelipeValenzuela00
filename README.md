@@ -6,8 +6,8 @@ Construyo aplicaciones web con Node.js, React y .NET, y ahora me especializo en 
 
 ## Proyectos
 
-- **Asistente financiero**: aplicación que ayuda a las personas a manejar sus finanzas con IA. En desarrollo (código privado, demo próximamente).
-- **[AutoLog](https://github.com/Equipo-4-ORT/proyecto-final-back)**: proyecto en equipo. Me encargué del backend, la autenticación con Google OAuth2 y la integración de IA.
+- **[Asistente Financiero](https://github.com/FelipeValenzuela00/AsistenteFinanciero)**: plataforma multi-empresa para las finanzas de pymes en ARS y USD, con saldos siempre consistentes y un asistente con IA. Proyecto en dúo (.NET 8, React, PostgreSQL con RLS); la vitrina tiene demos, arquitectura y decisiones técnicas.
+- **[AutoLog](https://github.com/FelipeValenzuela00/AutoLog)**: reconstruye la jornada laboral desde Google Calendar, Drive y Jira y genera un informe diario con IA. Proyecto en equipo: me encargué del backend, la autenticación con Google OAuth2 y la integración de IA.
 - **[Instituto Educativo](https://github.com/FelipeValenzuela00/InstitutoEducativo)**: sistema de gestión académica en .NET.
 - **[Path-To-AIengineering](https://github.com/FelipeValenzuela00/Path-To-AIengineering)**: mi programa de 12 semanas para pasar a AI Engineering, con cada proyecto testeado y con CI. Próximo paso: la API de Claude.
 
